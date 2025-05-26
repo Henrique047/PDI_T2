@@ -1,2 +1,1 @@
-
-vg
+!pip install wget
